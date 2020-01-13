@@ -1,0 +1,11 @@
+{
+  "name": "resouce-react-analysis",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:ZhangWei-KUMO/resouce-react-analysis.git",
+  "author": "ZhangWei-KUMO <kanseefoil@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^3.0.0"
+  }
+}
